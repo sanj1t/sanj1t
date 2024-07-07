@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Sanjit, a final year student learning how to use GitHub.
 <!--
 **sanj1t/sanj1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
