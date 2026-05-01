@@ -1,5 +1,5 @@
 ## Hi there 👋
-Trying to get into embedded electronics, I guess this could serve as a documentation of my journey.
+
 <!--
 **sanj1t/sanj1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
